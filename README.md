@@ -15,18 +15,18 @@ Comando para as bibliotecas:
 
 Campos:
 
-*title
-*tipo
-*estado(no caso estado do aparelho novo/usado)
-*municipio
-*cep
-*bairro
+* title
+* tipo
+* estado(no caso estado do aparelho novo/usado)
+* municipio
+* cep
+* bairro
 
 Para visualizar os dados:
 
-*Instalar o Mongodb[https://www.mongodb.com/]
-*Iniciar o servidor pelo prompt usando o comango mongod
-*Para visualizar utilizar o Robo 3T [https://robomongo.org/]
+* Instalar o Mongodb[https://www.mongodb.com/]
+* Iniciar o servidor pelo prompt usando o comango mongod
+* Para visualizar utilizar o Robo 3T [https://robomongo.org/]
 
 
 
