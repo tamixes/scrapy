@@ -13,7 +13,7 @@ Comando para as bibliotecas:
 * pip install scrapy
 * pip install pymongo
 
-Campos:
+<b>Campos</b>:
 
 * title
 * tipo
@@ -35,6 +35,7 @@ Programa feito em 4h
 Tempo de estudo 14h
 
 Referências:
+
 [https://doc.scrapy.org/en/latest/intro/tutorial.html]
 
 [https://medium.com/@marlessonsantana/utilizando-o-scrapy-do-python-para-monitoramento-em-sites-de-not%C3%ADcias-web-crawler-ebdf7f1e4966]
