@@ -36,6 +36,10 @@ Tempo de estudo 14h
 
 Referências:
 [https://doc.scrapy.org/en/latest/intro/tutorial.html]
+
 [https://medium.com/@marlessonsantana/utilizando-o-scrapy-do-python-para-monitoramento-em-sites-de-not%C3%ADcias-web-crawler-ebdf7f1e4966]
+
 [https://doc.scrapy.org/en/latest/topics/item-pipeline.html]
+
 [https://realpython.com/web-scraping-with-scrapy-and-mongodb/]
+
