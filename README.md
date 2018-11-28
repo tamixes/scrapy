@@ -1,14 +1,14 @@
-# scrapy
+# Scrapy
 
 Teste prático para os desenvolvedores candidatos as vagas do time de scraping.
 
 Target: [https://pe.olx.com.br/celulares]
 
-Objetivo:
+<b>Objetivo</b>:
 
 Construir um crawler para alguma loja online utilizando o framework Scrapy.
 
-Comando para as bibliotecas:
+<b>Comando para as bibliotecas</b>:
 
 * pip install scrapy
 * pip install pymongo
@@ -22,7 +22,7 @@ Comando para as bibliotecas:
 * cep
 * bairro
 
-Para visualizar os dados:
+<b>Para visualizar os dados</b>:
 
 * Instalar o Mongodb[https://www.mongodb.com/]
 * Iniciar o servidor pelo prompt usando o comango mongod
@@ -34,7 +34,7 @@ Programa feito em 4h
 
 Tempo de estudo 14h
 
-Referências:
+<b>Referências</b>:
 
 [https://doc.scrapy.org/en/latest/intro/tutorial.html]
 
